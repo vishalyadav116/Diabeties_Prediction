@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+pip install python
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install matplotlib
+pip install seaborn
 
 #import numpy as np
 import pandas as pd
