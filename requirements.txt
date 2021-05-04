@@ -4,3 +4,4 @@ matplotlib==3.4.1
 seaborn==0.11.1
 streamlit==0.81.0
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+setuptools==56.0.0
