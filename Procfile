@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris_webapp.
+web: sh setup.sh && streamlit run diabetes_prediction.py
