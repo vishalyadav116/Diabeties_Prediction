@@ -1,7 +1,7 @@
-numpy @ file:///C:/ci/scikit-learn_1592853510272/work
-pandas @ file:///C:/ci/pandas_1592833613419/work
-matplotlib @ file:///C:/ci/scikit-learn_1592853510272/work
-seaborn @ file:///C:/ci/scikit-learn_1592853510272/work
-streamlit @ file:///C:/ci/scikit-learn_1592853510272/work
-scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
-setuptools @ file:///C:/ci/scikit-learn_1592853510272/work
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+scikit-learn
+setuptools
