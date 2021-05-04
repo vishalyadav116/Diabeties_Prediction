@@ -1,7 +1,7 @@
-numpy==1.20.2
+numpy @ file:///C:/ci/scikit-learn_1592853510272/work
 pandas @ file:///C:/ci/pandas_1592833613419/work
-matplotlib==3.4.1
-seaborn==0.11.1
-streamlit==0.81.0
+matplotlib @ file:///C:/ci/scikit-learn_1592853510272/work
+seaborn @ file:///C:/ci/scikit-learn_1592853510272/work
+streamlit @ file:///C:/ci/scikit-learn_1592853510272/work
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
-setuptools==56.0.0
+setuptools @ file:///C:/ci/scikit-learn_1592853510272/work
